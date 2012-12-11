@@ -43,3 +43,17 @@ rm -rf %{buildroot}
 %{python_sitelib}/%{module}/*.py*
 %{python_sitelib}/%{module}*.egg-info
 
+
+
+%changelog
+* Sat Nov 06 2010 Funda Wang <fwang@mandriva.org> 0.0.1-2mdv2011.0
++ Revision: 593994
+- rebuild for py2.7
+
+* Thu Nov 26 2009 Per Ã˜yvind Karlsen <peroyvind@mandriva.org> 0.0.1-1mdv2010.1
++ Revision: 470412
+- import python-rython
+
+
+* Fri Jun 26 2009 Per Ãyvind Karlsen <peroyvind@mandriva.org> 0.0.1-1
+- initial release
