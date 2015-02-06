@@ -4,7 +4,7 @@
 Summary:	Transparently mixes Ruby code into Python
 Name:		python-%{module}
 Version:	0.0.1
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/Python
 Url:		http://pypi.python.org/pypi/rython/
