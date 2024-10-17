@@ -7,7 +7,7 @@ Version:	0.0.1
 Release:	4
 License:	BSD
 Group:		Development/Python
-Url:		http://pypi.python.org/pypi/rython/
+Url:		https://pypi.python.org/pypi/rython/
 Source0:	%{module}-%{version}.tar.gz
 BuildRequires: python-devel
 Requires:	ruby
